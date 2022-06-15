@@ -2,7 +2,7 @@
 
 ## 1. args, kwargs를 사용하는 예제 코드 짜보기
 
-    <img width="800" alt="Screen Shot 2022-06-15 at 8 01 37 PM" src="https://user-images.githubusercontent.com/104494448/173812069-0dfa0d6e-fc63-4fa3-bd71-50e94c3b912b.png">
+<img width="800" src="https://user-images.githubusercontent.com/104494448/173812069-0dfa0d6e-fc63-4fa3-bd71-50e94c3b912b.png">
 
 ## 2. mutable과 immutable은 어떤 특성이 있고, 어떤 자료형이 어디에 해당하는지 서술하기
 
@@ -53,10 +53,10 @@
 
 ## 3. DB Field에서 사용되는 Key 종류와 특징 서술하기
 
-      <img width="752" alt="Screen Shot 2022-06-15 at 8 04 54 PM" src="https://user-images.githubusercontent.com/104494448/173813171-d889ef30-7724-4d27-873e-6d3913fb9bc6.png">
-      <img width="650" alt="Screen Shot 2022-06-15 at 8 04 39 PM" src="https://user-images.githubusercontent.com/104494448/173813287-0152945a-448a-42d8-b56d-0c4c58696500.png">
-    <img width="702" alt="Screen Shot 2022-06-15 at 8 04 30 PM" src="https://user-images.githubusercontent.com/104494448/173813298-6a86faae-be0a-4781-9794-d902f7636a21.png">
-    <img width="716" alt="Screen Shot 2022-06-15 at 8 04 15 PM" src="https://user-images.githubusercontent.com/104494448/173813312-d4a77426-2e1d-494c-a99b-40e62693f960.png">
+<img width="752" alt="Screen Shot 2022-06-15 at 8 04 54 PM" src="https://user-images.githubusercontent.com/104494448/173813171-d889ef30-7724-4d27-873e-6d3913fb9bc6.png">
+<img width="650" alt="Screen Shot 2022-06-15 at 8 04 39 PM" src="https://user-images.githubusercontent.com/104494448/173813287-0152945a-448a-42d8-b56d-0c4c58696500.png">
+<img width="702" alt="Screen Shot 2022-06-15 at 8 04 30 PM" src="https://user-images.githubusercontent.com/104494448/173813298-6a86faae-be0a-4781-9794-d902f7636a21.png">
+<img width="716" alt="Screen Shot 2022-06-15 at 8 04 15 PM" src="https://user-images.githubusercontent.com/104494448/173813312-d4a77426-2e1d-494c-a99b-40e62693f960.png">
 
 
 ## 4. django에서 queryset과 object는 어떻게 다른지 서술하기
